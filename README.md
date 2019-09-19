@@ -1,9 +1,15 @@
 # SPRO-CUSTOMIZING-PATH
 SPRO Node Path.
 
+### Credit 
+[SAP Blog](https://blogs.sap.com/2018/08/15/copy-customizing-path/)
+
+[Nicolás Cervantes](https://people.sap.com/nicols.cervantes)
+
+[Sandra Rossi](https://people.sap.com/sandra.rossi)
 
 ![Image1](https://github.com/vidyadharg/SPRO-CUSTOMIZING-PATH/blob/master/images/image1.png)
-![Image2](https://github.com/vidyadharg/SPRO-CUSTOMIZING-PATH/blob/master/images/image1.png)
+![Image2](https://github.com/vidyadharg/SPRO-CUSTOMIZING-PATH/blob/master/images/image2.png)
 
 ## CODE :
 ### 1.Include LSHI01F1I ( Form HANDLE_MENU_REQUEST, End)
